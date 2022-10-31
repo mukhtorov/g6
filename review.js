@@ -38,9 +38,9 @@
 // 2-git commit -m "TEXT"
 // 3-git push origin branchName
 
-// Push
+// Pull
+// git pull origin navbar
 
 // Branch
-
 // git branch -
 // git checkout branchName
